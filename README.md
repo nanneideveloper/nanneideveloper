@@ -35,8 +35,7 @@
 - Clothing Brand Website
 - Student Management System
 - Data Structures Programs
-- Python Projects
-- Portfolio Website (Coming Soon)
+- Portfolio Website
 
 ## 📫 Contact Me
 
