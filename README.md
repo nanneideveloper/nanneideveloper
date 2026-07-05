@@ -19,31 +19,13 @@ Passionate about building software, learning new technologies, and creating real
 
 ## 🛠️ Tech Stack
 
-### Languages
-- C
-- C++
-- Python
-- JavaScript
-- SQL
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Visual Studio
-- WordPress
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,mysql,github,vscode,visualstudio,wordpress" />
+</p>
 
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
-- React
 - ASP.NET
 - Database Management
 
