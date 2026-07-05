@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Nann Ei 👋
 
-<!--
-**nanneideveloper/nanneideveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Information Technology Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer passionate about building web applications and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning Full Stack Development
+- 💡 Interested in Web Development, Data Structures, and Software Engineering
+- 📍 Studying in India
+- 🎯 Looking for Internship and Entry-Level Software Developer opportunities
+
+## 💻 Skills
+
+### Programming Languages
+- C
+- C++
+- C#
+- Python
+- JavaScript
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Tools & Technologies
+- Git & GitHub
+- Visual Studio
+- VS Code
+- WordPress
+
+## 📂 Projects
+- Clothing Brand Website
+- Student Management System
+- Data Structures Programs
+- Python Projects
+- Portfolio Website (Coming Soon)
+
+## 📫 Contact Me
+
+📧 Email: nanneieihlaing12@gmail.com
+
+⭐ Thanks for visiting my profile!
