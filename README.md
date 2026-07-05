@@ -1,44 +1,70 @@
-# Hi, I'm Nann Ei 👋
+<h1 align="center">Hi 👋, I'm Nann</h1>
+<h3 align="center">BSc IT Student | Aspiring Software Developer</h3>
 
-🎓 BSc Information Technology Student
+<p align="center">
+Passionate about building software, learning new technologies, and creating real-world projects.
+</p>
 
-💻 Aspiring Software Developer passionate about building web applications and solving problems through code.
+---
 
-## 🚀 About Me
+## 👩‍💻 About Me
+
+- 🎓 BSc Information Technology Student
 - 🌱 Currently learning Full Stack Development
-- 💡 Interested in Web Development, Data Structures, and Software Engineering
-- 📍 Studying in India
-- 🎯 Looking for Internship and Entry-Level Software Developer opportunities
+- 💻 Interested in Software Development & Web Development
+- 🚀 Looking for Internship and Entry-Level Developer opportunities
+- 📍 Based in India
 
-## 💻 Skills
+---
 
-### Programming Languages
+## 🛠️ Tech Stack
+
+### Languages
 - C
 - C++
-- C#
 - Python
 - JavaScript
 - SQL
 
-### Web Development
-- HTML
-- CSS
+### Frontend
+- HTML5
+- CSS3
 - JavaScript
 
-### Tools & Technologies
-- Git & GitHub
-- Visual Studio
+### Tools
+- Git
+- GitHub
 - VS Code
+- Visual Studio
 - WordPress
 
-## 📂 Projects
-- Clothing Brand Website
-- Student Management System
-- Data Structures Programs
-- Portfolio Website
+---
 
-## 📫 Contact Me
+## 📚 Currently Learning
 
-📧 Email: nanneieihlaing12@gmail.com
+- Data Structures & Algorithms
+- React
+- ASP.NET
+- Database Management
 
-⭐ Thanks for visiting my profile!
+---
+
+## 📂 Featured Projects
+
+🔹 Student Management System
+
+🔹 Clothing Brand Website
+
+🔹 Python Mini Projects
+
+🔹 Portfolio Website *(Coming Soon)*
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: **your-email@example.com**
+
+---
+
+⭐ *Thanks for visiting my profile!*
