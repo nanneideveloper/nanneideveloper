@@ -37,9 +37,7 @@ Passionate about building software, learning new technologies, and creating real
 
 🔹 Clothing Brand Website
 
-🔹 Python Mini Projects
-
-🔹 Portfolio Website *(Coming Soon)*
+🔹 Portfolio Website 
 
 ---
 
