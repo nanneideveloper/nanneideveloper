@@ -45,7 +45,7 @@ Passionate about building software, learning new technologies, and creating real
 
 ## 📫 Connect with Me
 
-📧 Email: **your-email@example.com**
+📧 Email: **nanneieihlaing12@gmail.com**
 
 ---
 
